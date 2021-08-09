@@ -10,7 +10,7 @@ At the moment I'm most interested in Web and IoT but I'm also keeping an eye on 
 #### Simples Vinhos website
 Simple static wine delivery service website built with ReactJS and TypeScript.\
 [Repository](https://github.com/Lukasmolin/simples-vinhos-web) | 
-[Online Demo](https://lukasmolin.github.io/simples-vinhos-web/vinhos)
+[Online Demo](https://lukasmolin.github.io/simples-vinhos-web)
 
 *At this moment there is only one but I'll be publishing more of my projects in the following weeks*
 
