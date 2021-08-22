@@ -8,7 +8,7 @@ At the moment I'm most interested in Web and IoT but I'm also keeping an eye on 
 
 ### These are some of my projects:
 #### Simples Vinhos website
-Responsive website for a Wine Delibery Service. Built with ReactJS and TypeScript.\
+Responsive website for a Wine Delivery Service. Built with ReactJS and TypeScript.\
 [Repository](https://github.com/Lukasmolin/simples-vinhos-web) | 
 [Online Demo](https://lukasmolin.github.io/simples-vinhos-web)
 
@@ -28,7 +28,7 @@ I'm also interested in UX/graphic designers looking for someone to develop proje
 <img src="https://img.shields.io/badge/node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white"></img>
 <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/express.js-393939.svg?style=for-the-badge&logo=express&logoColor=white"></img>
-\
+#### Persistence
 <img src="https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></img>
 <img src="https://img.shields.io/badge/mongodb-6BA342.svg?style=for-the-badge&logo=mongodb&logoColor=white"></img>
 <img src="https://img.shields.io/badge/redis-DA471E.svg?style=for-the-badge&logo=redis&logoColor=white"></img>
