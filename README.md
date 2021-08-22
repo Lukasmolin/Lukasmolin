@@ -28,6 +28,7 @@ I'm also interested in UX/graphic designers looking for someone to develop proje
 <img src="https://img.shields.io/badge/node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white"></img>
 <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/express.js-393939.svg?style=for-the-badge&logo=express&logoColor=white"></img>
+<img src="https://img.shields.io/badge/npm-CC0000.svg?style=for-the-badge&logo=npm"></img>
 #### Persistence
 <img src="https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></img>
 <img src="https://img.shields.io/badge/mongodb-6BA342.svg?style=for-the-badge&logo=mongodb&logoColor=white"></img>
@@ -41,7 +42,7 @@ I'm also interested in UX/graphic designers looking for someone to develop proje
 <img src="https://img.shields.io/badge/bootstrap-563B7D.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
 <img src="https://img.shields.io/badge/react.js-61CDE8.svg?style=for-the-badge&logo=react&logoColor=white"></img>
 
-### And what i'm currently trying out:
+### And what i'm currently checking out:
 <img src="https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white"></img>
 <img src="https://img.shields.io/badge/react native-61CDE8.svg?style=for-the-badge&logo=react&logoColor=white"></img>
 <img src="https://img.shields.io/badge/arch linux-3B94D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white"></img>
