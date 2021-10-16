@@ -22,15 +22,13 @@ I'm also interested in UX/graphic designers looking for someone to develop proje
 \
 <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Hibernate-BCAE79.svg?style=flat-square&logo=hibernate&logoColor=white"></img>
+<img src="https://img.shields.io/badge/jUnit5-25A162.svg?style=flat-square&logo=junit5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Gradle-102F3C.svg?style=flat-square&logo=gradle&logoColor=white"></img>
 \
 <img src="https://img.shields.io/badge/Node-43853D.svg?style=flat-square&logo=node.js&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Express-393939.svg?style=flat-square&logo=express&logoColor=white"></img>
-<img src="https://img.shields.io/badge/NPM-CC0000.svg?style=flat-square&logo=npm"></img>
-\
-<img src="https://img.shields.io/badge/jUnit5-25A162.svg?style=flat-square&logo=junit5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Jest-C21325.svg?style=flat-square&logo=jest&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=flat-square&logo=selenium&logoColor=white"></img>
+<img src="https://img.shields.io/badge/NPM-CC0000.svg?style=flat-square&logo=npm"></img>
 \
 <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat-square&logo=postgresql&logoColor=white"></img>
 <img src="https://img.shields.io/badge/SQLite-003C56.svg?style=flat-square&logo=sqlite&logoColor=white"></img>
@@ -39,11 +37,12 @@ I'm also interested in UX/graphic designers looking for someone to develop proje
 \
 <img src="https://img.shields.io/badge/Docker-0DB7ED.svg?style=flat-square&logo=docker&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Debian-DC4C4D.svg?style=flat-square&logo=debian&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=flat-square&logo=selenium&logoColor=white"></img>
 <img src="https://img.shields.io/badge/AWS-EC2 S3-F09700.svg?style=flat-square&logo=amazon-aws&logoColor=white"></img>
 
 ### These are some of my projects:
 #### Simples Vinhos website
-Responsive website for a Wine Delivery Service. Built with ReactJS and TypeScript.\
+Simple responsive website for a Wine Delivery Service. Built with ReactJS and Typescript.\
 [Repository](https://github.com/Lukasmolin/simples-vinhos-web) | 
 [Online Demo](https://lukasmolin.github.io/simples-vinhos-web)
 
