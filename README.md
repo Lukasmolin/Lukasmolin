@@ -1,19 +1,24 @@
 ## Welcome to my github
-👋 Hey there, my name is Lucas and here is where I'll show some of my personal projects. 👋
+👋 Hey there, my name is Lucas 👋
 
 I'm currently taking a bachelor's degree in Information Systems at Federal University of Juiz de Fora (UFJF) and working on developing an academic and legal process management software for my college's law school practice department (It's like a university hospital for law practice).
-At the moment I'm most interested in Web and IoT but I'm also keeping an eye out on machine learning.
+At the moment I'm most interested in Web and IoT but I'm also keeping an eye out on machine learning. Also i love games so don't be surprised if a 🎮 wild game appears 🎮 around here.
 
-🎮 Oh and I love games so don't be surprised if a wild game appears here. 🎮
+👉 Take a look at [my website](https://lukasmolin.github.io/) if you wish to see a organized list of my projects 👈\
+*english language will be available soon*
+
+You can also browse thru my repositories but there are a lot of old and/or abandoned projects like old college assignments or stuff i made just to test something specific.
+
 
 ### Contribute
 I'd really like any feedback, especially related to code quality. You can post a comment, open an issue or a pull request that'll gladly answer it.
 I'm also interested in UX/graphic designers looking for someone to develop projects with and implement their ideas.
 
-### Here's what i like to use:
+### Here's what I generaly like to use:
 <img src="https://img.shields.io/badge/Java-E74C22.svg?style=for-the-badge&logo=java&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Javascript-CDB22F.svg?style=for-the-badge&logo=javascript&logoColor=white"></img>
+\
 \
 <img src="https://img.shields.io/badge/Thymeleaf-326010.svg?style=flat-square&logo=thymeleaf&logoColor=white"></img>
 <img src="https://img.shields.io/badge/React-61CDE8.svg?style=flat-square&logo=react&logoColor=white"></img>
@@ -39,11 +44,3 @@ I'm also interested in UX/graphic designers looking for someone to develop proje
 <img src="https://img.shields.io/badge/Debian-DC4C4D.svg?style=flat-square&logo=debian&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=flat-square&logo=selenium&logoColor=white"></img>
 <img src="https://img.shields.io/badge/AWS-EC2 S3-F09700.svg?style=flat-square&logo=amazon-aws&logoColor=white"></img>
-
-### These are some of my projects:
-#### Simples Vinhos website
-Simple responsive website for a Wine Delivery Service. Built with ReactJS and Typescript.\
-[Repository](https://github.com/Lukasmolin/simples-vinhos-web) | 
-[Online Demo](https://lukasmolin.github.io/simples-vinhos-web)
-
-*At this moment there is only one but I'll be publishing more of my projects in the following weeks*
