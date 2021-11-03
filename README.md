@@ -7,7 +7,7 @@ At the moment I'm most interested in Web and IoT but I'm also keeping an eye out
 👉 Take a look at [my website](https://lukasmolin.github.io/) if you wish to see a organized list of my projects 👈\
 *english language will be available soon*
 
-You can also browse thru my repositories but there are a lot of old and/or abandoned projects like old college assignments or stuff i made just to test something specific.
+You can also just browse through my repositories if you wish. I try to keep them organized but there are a lot of old and/or abandoned projects like old college assignments or stuff i made just to test something specific.
 
 
 ### Contribute
