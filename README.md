@@ -1,8 +1,8 @@
 ## Welcome to my github
 👋 Hey there, my name is Lucas 👋
 
-I'm currently taking a bachelor's degree in Information Systems at Federal University of Juiz de Fora (UFJF) and working on developing an academic and legal process management software for my college's law school practice department (It's like a university hospital but for law practice).
-At the moment I'm most interested in Web and IoT but I'm also keeping an eye out on machine learning. Also I love games so don't be surprised if a 🎮 wild game appears 🎮 around here.
+I'm currently taking a bachelor's degree in Information Systems at Federal University of Juiz de Fora (UFJF) and working on developing a human resources management software called Fortes RH.
+At the moment I'm most interested in Web and IoT but I'm keeping an eye out on machine learning too. Also I love games so don't be surprised if a 🎮 wild game appears 🎮 around here.
 
 👉 Take a look at [my website](https://lukasmolin.github.io/) if you wish to see an organized list of my projects 👈\
 
@@ -10,10 +10,9 @@ You can just browse through my [repositories](https://github.com/Lukasmolin?tab=
 
 ### Contribute
 I'd really like any feedback, especially related to code quality. You can post a comment, open an issue or a pull request that'll gladly answer it.
-I'm also open to working with UX/graphic designers looking for someone to collaborate and develop projects with.
 
 ### Here's what I generaly like to use:
-<img src="https://img.shields.io/badge/Java-E74C22.svg?style=for-the-badge&logo=java&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Java-E74C22.svg?style=for-the-badge&logo=OpenJDK&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Javascript-CDB22F.svg?style=for-the-badge&logo=javascript&logoColor=white"></img>
 \
