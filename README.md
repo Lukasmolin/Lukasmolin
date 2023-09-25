@@ -4,8 +4,6 @@
 I'm currently taking a bachelor's degree in Information Systems at Federal University of Juiz de Fora (UFJF) and working on developing a human resources management software called Fortes RH.
 At the moment I'm most interested in Web and IoT but I'm keeping an eye out on machine learning too. Also I love games so don't be surprised if a 🎮 wild game appears 🎮 around here.
 
-👉 Take a look at [my website](https://lukasmolin.github.io/) if you wish to see an organized list of my projects 👈
-
 You can just browse through my [repositories](https://github.com/Lukasmolin?tab=repositories) on github if you wish but there are a lot of old and/or abandoned projects like old college assignments and stuff made just to test something specific.
 
 ### Contribute
